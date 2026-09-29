@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment files / secrets
+.env
+.env.*
+*.env
+atlas-credentials.env
+
+# Build files
+build/
+dist/
+
+# Logs
+npm-debug.log*
